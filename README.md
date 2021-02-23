@@ -52,7 +52,7 @@ Android知识梳理，知识问答
 # [事件](https://github.com/ydslib/Android-Knowledge/wiki#%E4%BA%8B%E4%BB%B6)
 >- 
 >
-#[Binder](https://github.com/ydslib/Android-Knowledge/wiki#binder)
+# [Binder](https://github.com/ydslib/Android-Knowledge/wiki#binder)
 >- [Binder跨进程通信原理](https://github.com/ydslib/Android-Knowledge/wiki#1-binder%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86)
 >
 >- [AIDL生成的java类的类结构是怎么样的？](https://github.com/ydslib/Android-Knowledge/wiki#2-aidl%E7%94%9F%E6%88%90%E7%9A%84java%E7%B1%BB%E7%9A%84%E7%B1%BB%E7%BB%93%E6%9E%84%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84)
